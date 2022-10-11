@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4-zadacha/static/css/main.073c9b0a.css",
+    "main.js": "/4-zadacha/static/js/main.9d410ed3.js",
+    "index.html": "/4-zadacha/index.html",
+    "main.073c9b0a.css.map": "/4-zadacha/static/css/main.073c9b0a.css.map",
+    "main.9d410ed3.js.map": "/4-zadacha/static/js/main.9d410ed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9d410ed3.js"
+  ]
+}
